@@ -22,7 +22,6 @@ OnChainIndex is intentionally limited in scope.
 
 Rankings reflect **usage only**, based on publicly available on-chain activity.
 
-/content/press.md
 ---
 
 ## Methodology Summary
