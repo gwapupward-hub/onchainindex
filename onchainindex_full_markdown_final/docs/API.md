@@ -28,7 +28,7 @@ GET /api/v1/history/{date}
 ```json
 {
   "rank": 3,
-  "name": "Jupiter",
+  "name": "ExampleDApp",
   "category": "DeFi",
   "uaw_7d": 182391,
   "tx_7d": 3200000,

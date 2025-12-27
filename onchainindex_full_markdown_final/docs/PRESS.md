@@ -12,15 +12,9 @@ OnChainIndex does not accept paid rankings, reviews, or self-reported metrics. R
 
 ## What OnChainIndex Is Not
 
-OnChainIndex is intentionally limited in scope.
+OnChainIndex is intentionally limited in scope. Rankings reflect **usage only**, based on publicly available on-chain activity.
 
-- It is **not** an endorsement platform  
-- It is **not** an audit, rating agency, or security review  
-- It is **not** investment or financial advice  
-- It does **not** measure code quality, safety, or legitimacy  
-- It does **not** accept paid placements or promotional rankings  
-
-Rankings reflect **usage only**, based on publicly available on-chain activity.
+For full details, see [What It Is Not](/docs/WHAT_IT_IS_NOT.md).
 
 ---
 

@@ -77,13 +77,9 @@ Used for attribution in widgets, embeds, and partner pages.
 
 ## What OnChainIndex Is Not
 
-- Not an endorsement platform  
-- Not an audit, rating agency, or security review  
-- Not investment or financial advice  
-- Does not measure code quality or safety  
-- Does not accept paid or promotional rankings  
+Rankings reflect **usage only**. OnChainIndex is not an endorsement platform, audit, or investment advice.
 
-Rankings reflect **usage only**.
+See [What It Is Not](/docs/WHAT_IT_IS_NOT.md) for full details.
 
 ---
 
