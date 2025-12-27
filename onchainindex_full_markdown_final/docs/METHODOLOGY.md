@@ -25,5 +25,5 @@ Historical rankings are never recomputed retroactively.
 Rankings do not represent endorsements, audits, or investment advice.
 
 ## Versioning
-Methodology v1.0  
-Last updated: YYYY-MM-DD
+Methodology v1.0
+Last updated: 2025-12-27
