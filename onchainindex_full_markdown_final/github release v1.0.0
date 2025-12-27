@@ -1,0 +1,24 @@
+## OnChainIndex v1.0.0
+
+Initial public release of OnChainIndex — an independent index ranking on-chain applications by real usage.
+
+### What’s included
+- Usage-based rankings (Most Active, Most Used, Trending)
+- Daily ranking snapshots with preserved history
+- Public, read-only API
+- dApp profile pages with plain-English descriptions
+- “Verified by GwapScore” credibility indicator
+- Embeddable ranking widgets with attribution
+- Public, versioned methodology
+
+### What this release is not
+- Rankings are not endorsements
+- Rankings are not safety or investment advice
+- No paid placement or promotional influence
+
+### Stability
+This release prioritizes determinism, transparency, and reproducibility.
+Methodology changes are versioned and documented.
+
+### Looking ahead
+Future releases will focus on alerts, historical analysis, and ecosystem integrations without altering v1 ranking guarantees.
